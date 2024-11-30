@@ -2,3 +2,5 @@
 # INF0063 - AED1
 
 MATRÍCULA - NOME COMPLETO
+201800219 Daniel da Silva Alves 
+201602477 Renato Alves Júnior
